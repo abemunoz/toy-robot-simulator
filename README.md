@@ -1,7 +1,10 @@
 # toy-robot-simulator
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+A simple toy robot simulator built using Ember. 
+
+My code changes can be viewed at this commit: https://github.com/abemunoz/toy-robot-simulator/commit/ebae43c4f5498d36db4ff52024cc1962935ce888
+
+You can also access the website here: https://flamboyant-murdock-6df531.netlify.app
 
 ## Prerequisites
 
